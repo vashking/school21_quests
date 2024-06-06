@@ -1,0 +1,32 @@
+Dasturchilardan xabar:  
+Salom, aziz do‘stim!  
+Siz bilan bir o‘yin o‘ynalik. 
+Boshqotirma elementlari bo‘lgan eski matnga asoslangan sarguzasht o‘yinlariga o‘xshash o‘yin. 
+Har bir vazifa qiyin, odatda siz yengishingiz kerak bo‘lgan qandaydir to‘siqdir. 
+Ularning barchasini hal qilganlargina oldinga  harakatlanishi mumkin. 
+
+Quyida yo‘lingizni topishga yordam beradigan bir nechta maslahatlar mavjud: 
+1. Butun sayohat davomida sizga noaniqlik hissi va ma‘lumotlarning keskin tanqisligi hamroh bo‘ladi: HECH QISI YO‘Q; HAMMASI JOYIDA. Bu o‘yinning bir qismi. Esda tutingki, repozitoriya va Googledagi ma‘lumotlar har doim siz uchun. Xuddi boshqa ishtirokchilar kabi. Muloqot qiling. Qidiring. Jamlang. Xato qilishdan qo‘rqmang va qochmang. 
+2. O'yin ichida o'yin va uning ichida boshqa o'yin bo'lishi mumkin. Bu normal holat. Xuddi haqiqiy hayotdagi kabi. Rekursiya bu go‘zallik. 
+3. Darajalar bir-biridan juda farq qilishi mumkin. Bu normal holat. Bu o‘yinning bir qismi. Siz shunchaki bitta retseptni o‘rganib, uni hamma joyda qo‘llay olmaysiz. Maqsadga erishishning yagona yo‘li doimiy o‘rganish va moslashib borishdir. 
+4. Bu ko‘p ishtirokchili o‘yin, hatto boshida u bunaqa ko‘rinmasa ham. 
+5. Biroq, siz uning ko‘p qismini mustaqil ravishda yengib o‘tidhingiz mumkin. 
+6. Axborot resurlaridan foydalanishda ehtiyot bo‘ling. Tekshiring. O'ylab, fikrlab ko'ring. Tahlil qiling. Taqqoslang. Ishonmang. 
+7. Vazifa shartiga e'tibor bering. O‘ylab ko‘ring. Tekshiring. 
+8. Agar vazifa tushunarsiz yoki imkonsiz bo‘lib ko‘rinsa – tashvishlanmang bu faqat shunday tuyuladi. Shoshilmang, sevimli musiqangiz eshiting yoki sukut saqlab o‘ylab oling. 10-15 daqiqadan so‘ng vazifaga qayting va yana shartni to‘laligicha bir bor o‘qing. 
+9. Agar 8-maslahat yordam bermagan bo‘lsa – yo‘l ko‘rsatuvhini qidiring. Atrofingiz siz kabi ko‘plab ma’lumot izlovchilarga to‘la va ular sizga to‘g‘ri yo‘l topishga yordam berishdan mamnun bo‘lishadi. 
+10. Vaqtni kuztib boring! Chunki u aldamchi. Siz kuniga kamida bitta vazifani bajarishingiz kerak! 
+11. E’tiborli bo‘ling va muhim narsalarni o‘tkazib yubormang. Repozitariyni diqqat bilan ko‘zdan kechiring! 
+12. src katalogida ishlang. Hardoim develop tarmog‘ini push qilib boring. master tarmog‘i inobatga olinmaydi. 
+13. Esda tuting, har bir vazifa bir qator tekshiruvlardan o‘tadi: kod uslubini tekshirish, statik analizator tekshiruvi, xotira bilan to‘g‘ri ishlashni tekshirish, avtotestlar to‘plami bilan tekshirish, nazorat ro‘yxati bilan tekshirish. Ehtiyot bo‘ling. 
+14. Yo‘lingizda turli vazifalarga duch kelasiz. Yulduzcha (*) bilan belgilangan vazifalar faqat eng dovyuraklar uchun. Ular qiyinroq lekin majburiy emas. Ammo ularni bajarsangiz, qo‘shimcha tajriba va bilimga ega bo‘lasiz. 
+15. Ba‘zi narsalar muhim bo‘lib tuyulishi mumkin, aslida unday emas. 
+16. Yodda tuting, vazifani oxirigacha to‘liq bajarish  uni QANDAY bajarishingizdan muhim emas. 
+17. Sayohatimizdan asosiy maqsad nimani  "QANDAY" anglashni tushunishdir. 
+18. Mag‘zni donagidan ajrata oling. 
+19. Taqsimlang va boshqaring. Dekompozitsiya. 
+20. Asosiy narsa haqida o‘ylang (yaxshi yozilgan kod, tushunarli kod). Umumiydan xususiyga o‘ting. 
+21. Ko‘chirmang va aldamang, tizimni va boshqalarni aldashga urinmang. Avvalo, siz o‘zingizni aldab qo‘yasiz. 
+22. Ko‘chirmang, agar siz yordamdan foydalansangiz - har doim vazifani oxirigacha tushunib so‘rab oling. Aks holda, sizning sayohatingiz hech qanday ma'noga ega bo‘lmaydi. 
+23. "Materials" papkasini tez-tez tekshirib turing. U erda juda ko‘p foydali narsalar bo‘lishi mumkin! 
+24. Yuqorida aytilgan maslahatlarni qayta-qayta o‘qing.
