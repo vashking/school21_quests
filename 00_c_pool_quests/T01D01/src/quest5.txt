@@ -1,0 +1,4 @@
+1) Open door_management_files/door_configuration for command cd door_management_files/door_configuration
+2) Enter in terminal "nano door_1.conf"
+3) Changed "STATUS: CLOSED" to "STATUS: OPEN"
+4) Tap on keyboard "Control" + "x" --> "Y" for save changes.
