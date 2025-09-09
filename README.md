@@ -1,2 +1,5 @@
 # school21_quests
-All school quests 4 learn and copypaste (cheating hello)
+
+Репозиторий переехал в https://github.com/vashking/school21_helper
+
+По всем вопросам: t.me/vashmirrorka
